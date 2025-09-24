@@ -10,9 +10,7 @@ This is the ATDD Sandbox Project used within the [ATDD Accelerator Program](http
 
 ## System Release
 
-[![release-stage-dotnet](https://github.com/optivem/atdd-accelerator-template-mono-repo/actions/workflows/release-stage-dotnet.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-mono-repo/actions/workflows/release-stage-dotnet.yml)
-[![release-stage-java](https://github.com/optivem/atdd-accelerator-template-mono-repo/actions/workflows/release-stage-java.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-mono-repo/actions/workflows/release-stage-java.yml)
-[![release-stage-typescript](https://github.com/optivem/atdd-accelerator-template-mono-repo/actions/workflows/release-stage-typescript.yml/badge.svg)](https://github.com/optivem/atdd-accelerator-template-mono-repo/actions/workflows/release-stage-typescript.yml)
+[![release-stage-typescript](https://github.com/valentinajemuovic/eshop/actions/workflows/release-stage-typescript.yml/badge.svg)](https://github.com/valentinajemuovic/eshop/actions/workflows/release-stage-typescript.yml)
 
 
 ## Instructions
